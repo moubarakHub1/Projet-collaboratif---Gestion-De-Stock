@@ -1,0 +1,4 @@
+# .gitignore
+gestock/
+__pycache__/
+*.pyc
